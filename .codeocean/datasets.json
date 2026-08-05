@@ -2,12 +2,8 @@
 	"version": 1,
 	"attached_datasets": [
 		{
-			"id": "4f10bfa1-1e07-4ef9-9b08-03c891968a59",
+			"id": "a0a476ca-a855-4c18-a363-c2dcba4d8478",
 			"mount": "dynamicrouting_datacube"
-		},
-		{
-			"id": "bfaffa07-a179-4f02-9724-4e51451d8ba6",
-			"mount": "dynamicrouting_datacube_v0.0.272"
 		}
 	]
 }
