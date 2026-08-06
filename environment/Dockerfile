@@ -1,4 +1,4 @@
-# hash:sha256:8d9839ca9da895b89e92e9c55f56720c756095067b598222962df586e08a2b8d
+# hash:sha256:af9883cba13dd53ce225545bcf17e488f0de8bf641c3817a308071ed9d28a138
 ARG REGISTRY_HOST
 FROM $REGISTRY_HOST/codeocean/code-server-python-extensions-pack:v5.0
 
@@ -16,4 +16,4 @@ RUN pip install -U --no-cache-dir \
     ipykernel==7.3.0 \
     matplotlib==3.11.1 \
     pandas==3.0.5 \
-    pynwb==4.0.0
+    pynwb[zarr]==4.0.0
