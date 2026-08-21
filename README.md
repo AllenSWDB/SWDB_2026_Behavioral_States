@@ -59,4 +59,5 @@ Key dependencies (see `environment/Dockerfile`):
 
 - **CodeOcean Capsule:** https://codeocean.allenneuraldynamics.org/capsule/
 - **SWDB Student Wiki:** https://github.com/AllenInstitute/swdb_2026_student/wiki
-- **DR Databook:** https://allenswdb.github.io/physiology/ephys/visual-behavior/VB-Neuropixels.html
+- **DR Databook:** https://allenswdb.github.io/physiology/ephys/dynamic-routing/dynamic-routing-background.html
+
