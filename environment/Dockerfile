@@ -1,6 +1,6 @@
-# hash:sha256:af9883cba13dd53ce225545bcf17e488f0de8bf641c3817a308071ed9d28a138
+# hash:sha256:7b05cd025460086671c9ea657c8148cf3a6f6a020e3e6443564af765adb082d9
 ARG REGISTRY_HOST
-FROM $REGISTRY_HOST/codeocean/code-server-python-extensions-pack:v5.0
+FROM $REGISTRY_HOST/codeocean/swdb:Python3.12code-server4.133
 
 ARG DEBIAN_FRONTEND=noninteractive
 ARG GIT_ASKPASS
