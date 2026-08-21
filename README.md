@@ -57,7 +57,8 @@ Key dependencies (see `environment/Dockerfile`):
 
 ## Links
 
-- **CodeOcean Capsule:** https://codeocean.allenneuraldynamics.org/capsule/
+- **CodeOcean Capsule:** https://codeocean.allenneuraldynamics.org/capsule/6378625/tree
+- **Github Respository:** https://github.com/AllenSWDB/SWDB_2026_Behavioral_States
 - **SWDB Student Wiki:** https://github.com/AllenInstitute/swdb_2026_student/wiki
 - **DR Databook:** https://allenswdb.github.io/physiology/ephys/dynamic-routing/dynamic-routing-background.html
 
